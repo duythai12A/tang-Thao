@@ -8,9 +8,9 @@ const CONFIG = {
     btnNo: 'Yêu nhưng option khác :3',
     question:'Còn điều gì không thích ở anh thì gửi vào đâyyy <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <3333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Yêu emm!',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com/duythaicpt' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://fb.com/m.me/duythaicpt' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
